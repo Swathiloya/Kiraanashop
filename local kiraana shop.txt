@@ -1,0 +1,1 @@
+Rice,Jaggery,Sugar,Tea-powder,Coffee-powder,Soaps,Papads,Salt,Onion,Ginger.
